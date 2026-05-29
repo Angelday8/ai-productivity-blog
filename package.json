@@ -1,0 +1,14 @@
+{
+  "name": "ai-productivity-blog",
+  "version": "1.0.0",
+  "description": "AI生产力指南 - AI工具评测与效率方法论",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "vitepress": "^1.4.0"
+  }
+}

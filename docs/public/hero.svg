@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3a86ff;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#8338ec;stop-opacity:0.05"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)" rx="20"/>
+  <text x="200" y="120" text-anchor="middle" font-size="90" font-family="sans-serif">🧠⚡</text>
+  <text x="200" y="220" text-anchor="middle" font-size="24" font-family="sans-serif" fill="#3a86ff" font-weight="bold">AI × 效率</text>
+  <text x="200" y="260" text-anchor="middle" font-size="14" font-family="sans-serif" fill="#64748b">让工具为你工作</text>
+</svg>
